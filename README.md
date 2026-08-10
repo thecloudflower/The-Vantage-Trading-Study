@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/vantage_header.png" alt="Vantage Trading Study banner" width="100%">
+  <img src="assets/Vantage_Trading_Study.png" alt="Vantage Trading Study banner" width="100%">
 </p>
 
 <h1 align="center">Vantage Trading Study</h1>
